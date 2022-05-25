@@ -6,7 +6,7 @@ var d = parseInt(readline());
 
 
 if (k === 1) {
-    console.log(1);
+    console.log(d);
 } else {
     var output = 0;
     for (let i = 1; i <= d; i++) {
